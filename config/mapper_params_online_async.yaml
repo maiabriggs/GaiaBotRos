@@ -19,7 +19,7 @@ slam_toolbox:
     # if you'd like to immediately start continuing a map at a given pose
     # or at the dock, but they are mutually exclusive, if pose is given
     # will use pose
-    map_file_name: /home/maia/Documents/SDP/GaiaBotWS/SDP_SIM_MAP
+    map_file_name: /root/dev_ws/maze_serial #/home/maia/Documents/SDP/GaiaBotWS/SDP_SIM_MAP "\\wsl.localhost\Ubuntu-22.04\root\dev_ws\maze_serial.data"
     # map_start_pose: [0.0, 0.0, 0.0]
     map_start_at_dock: true
 
